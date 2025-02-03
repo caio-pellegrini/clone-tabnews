@@ -1,5 +1,12 @@
 function Home() {
-  return <h1>Bem-vindo ao RoboTab, um portal brasileiro onde pessoas interessadas por robótica educacional e pelas competições FLL, OBR e FRC se reunem para se ajudar mutuamente. Feito para estudantes, professores e entusiastas centrados e dedicados, dispostos a compartilhar o que sabem para o benefício da comunidade. Este é um projeto OpenSource que está em construção! Você pode contribuir.</h1>;
+  return <div>
+    <h1>Olá Lorena Oliani</h1>
+    <p>Você decifrou a primeira parte do desafio... Muito bem! Hehehe.</p>
+    <p>Agora o próximo passo é responder um quiz com perguntas MUITO difíceis, espero que esteja preparada.</p>
+    <p>AH, quer saber, vou facilitar pra você... Leia esse versículo que vai te ajudar. É o maior versículo da Bíblia, então se prepara que vai demorar a leitura. Jó 3:2</p>
+
+    <button><a href="/quiz">Li o texto e estou pronta para responder</a></button>
+  </div>;
 }
 
 function teste() {
